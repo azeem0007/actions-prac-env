@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - dev
+      - master
 env:
   MONGODB_NAME: azeem_db
 jobs:
